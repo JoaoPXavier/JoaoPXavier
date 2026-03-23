@@ -1,6 +1,6 @@
 ## Hi, I'm Joao Victor
 
-👨‍💻 Backend Developer
+👨‍💻 Quality Assurance (QA)
 
 🎓 Graduated in Systems Analysis and Development at Estácio de Sá University
 
